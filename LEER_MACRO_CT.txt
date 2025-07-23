@@ -1,0 +1,1 @@
+Para usar la macro CT guardar archivo con extension .xlms (hoja de calculo habilitada apra macros)
